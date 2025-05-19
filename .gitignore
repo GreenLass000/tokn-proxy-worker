@@ -1,3 +1,5 @@
+.vscode/
+
 # Logs
 
 logs
@@ -170,5 +172,3 @@ dist
 
 .dev.vars
 .wrangler/
-
-.vscode/
